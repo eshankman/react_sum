@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.scss';
-import { Sum } from './components/Sum/Sum'
+import { Sum } from './components/Sum/Sum';
 
 export const App = () => (
   <>
@@ -11,4 +11,3 @@ export const App = () => (
     <Sum />
   </>
 );
-
